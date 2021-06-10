@@ -1,7 +1,8 @@
 **INFO**:
 - ARP MitM Ettercap dataset used can be found here:
 	- https://archive.ics.uci.edu/ml/datasets/Kitsune+Network+Attack+Dataset
-- 
+	
+- The goal of this proejct was to use machine learning to classify malicious packets quickly and efficiently
 
 Code for the following sections can be found in the following files:
 
