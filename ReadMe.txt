@@ -1,3 +1,7 @@
+**INFO**:
+- ARP MitM Ettercap dataset used can be found here:
+	- https://archive.ics.uci.edu/ml/datasets/Kitsune+Network+Attack+Dataset
+- 
 
 Code for the following sections can be found in the following files:
 
@@ -18,6 +22,9 @@ c) Dataset Cleaning:
 	- Logistic Regression with IQR (Unsuccessful Results) - ARP MitM_dataset.ipynb
 	- Logistic Regression with Z-score (Unsuccessful Results) - ARP MitM_dataset-Copy1.ipynb
 
+d) Related Work:
+
+- Can be found in the project writeup PDF
 
 e) Feature Extraction:
 
@@ -57,3 +64,4 @@ h) Performance
 	- TUNING - Logistic Regression - ARP MitM_dataset.ipynb
 	- TUNING - LDA - ARP_MitM_dataset.ipynb
 	- TUNING - QDA - ARP_MitM_dataset.ipynb
+
